@@ -3,6 +3,15 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=92F7E7&width=500&lines=백준+문제+풀이+업로드+중+입니다+.................)](https://git.io/typing-svg)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kkw4987)](https://solved.ac/kkw4987)
+# 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kkw4987&show_icons=true&theme=tokyonight)
 
-![mazandi profile](http://mazandi.herokuapp.com/api?handle={handle}&theme=dark)
+---
+
+## 🔥 Commit Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=kkw4987&theme=tokyonight)
+
+---
+
+## 💻 Most Used Language
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kkw4987&layout=compact&theme=tokyonight)
