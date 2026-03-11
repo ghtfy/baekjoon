@@ -1,7 +1,5 @@
-# 📚 Baekjoon Algorithm Study
+# 👨‍💻  Baekjoon Algorithm Study
 
-
-# 👨‍💻 Baekjoon Algorithm Study
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=92F7E7&width=500&lines=백준+문제+풀이+업로드+중+입니다+...........;Algorithm+Study+in+Progress...)](https://git.io/typing-svg)
 
